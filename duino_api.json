@@ -1,0 +1,45 @@
+{
+  "result": {
+    "balance": {
+      "balance": 8.876196904415186,
+      "username": "savat"
+    },
+    "miners": [
+      {
+        "accepted": 16,
+        "algorithm": "DUCO-S1",
+        "diff": 5000,
+        "hashrate": 37433.0,
+        "identifier": "None",
+        "rejected": 0,
+        "sharetime": 9.77805,
+        "software": "Android miner",
+        "threadid": "140629181139768",
+        "username": "savat"
+      },
+      {
+        "accepted": 12,
+        "algorithm": "DUCO-S1",
+        "diff": 21052,
+        "hashrate": 34357.0,
+        "identifier": "None",
+        "rejected": 1,
+        "sharetime": 37.907068,
+        "software": "Android miner",
+        "threadid": "140628153421160",
+        "username": "savat"
+      }
+    ],
+    "transactions": [
+      {
+        "amount": 0.2,
+        "datetime": "20/06/2021 14:20:14",
+        "hash": "afe995a9dc71eaeeef5e50c8e330414dd4032627",
+        "memo": "Oq",
+        "recipient": "savat888",
+        "sender": "savat"
+      }
+    ]
+  },
+  "success": true
+}
