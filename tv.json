@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Cool Fahrenheit",
+    "url": "https://coolism-web3rd.cdn.byteark.com/stream/1/",
+    "image": "https://myradiobucket.s3-eu-west-1.amazonaws.com/TH_1_Cool+Fahrenheit.jpg"
+  },
+{
+    "name": "Green wave",
+    "url": "http://atimeonline.smartclick.co.th:80/green",
+    "image": "https://static.mytuner.mobi/media/tvos_radios/52kDndQrUz.jpg"
+  },
+{
+    "name": "Flex 104.5",
+    "url": "http://shoutcast.flexconnect.net:8088/;",
+    "image": "https://op-static.files.joox.com/weaver/Flex104-1624354175853.5-1624354175853.jpg"
+  },
+  {
+    "name": "FM 95 ลูกทุ่งมหานคร",
+    "url": "https://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/playlist.m3u8",
+    "image": "https://myradiobucket.s3-eu-west-1.amazonaws.com/TH_2_%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3+(HLS).jpg"
+  },
+{
+    "name": "RequestRadio สตริง",
+    "url": "http://cast.requestradio.in.th:8100/stream",
+    "image": "https://myradiobucket.s3-eu-west-1.amazonaws.com/TH_7_requestradio.jpg"
+  },
+{
+    "name": "RequestRadio ลูกทุ่ง",
+    "url": "http://cast.requestradio.in.th:8200/stream",
+    "image": "https://myradiobucket.s3-eu-west-1.amazonaws.com/TH_7_requestradio.jpg"
+  }
+  
+]
